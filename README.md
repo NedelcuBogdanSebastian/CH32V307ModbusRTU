@@ -49,5 +49,3 @@
 ***********************************************************************************
   Line 140 in portserial.c. Added code to test USART1 interrupt working.
      Send 'A' using Termite over serial (38400,8,N) to blink led.
-***********************************************************************************
-  Line 31 in debug.h. DEBUG redefined to UART2, UART1 is used by Modbus.
