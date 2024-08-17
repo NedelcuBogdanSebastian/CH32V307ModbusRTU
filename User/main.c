@@ -10,7 +10,7 @@
 * microcontroller manufactured by Nanjing Qinheng Microelectronics.
 *******************************************************************************/
 
-/****************************** readme.mf file ************************************
+/****************************** readme.md file ************************************
                            MounRiver Studio_Community
                                 Version: v1.50
                                 
@@ -196,7 +196,7 @@ int main(void)
 	// Enable the receiver
 	vMBPortSerialEnable( TRUE, FALSE );
 	// Now block. Any character received should cause an interrupt
-	// If char '¡' received from serial port then led is toggled
+	// If char '√Å' received from serial port then led is toggled
 	for( ;; );
     */
 
