@@ -2,7 +2,7 @@
 * File Name          : main.c
 * Author             : Nedelcu Bogdan Sebastian
 * Version            : V1.0.0
-* Date               : 2024/08/15
+* Date               : 16/August/2024
 * Description        : Main program body.
 *********************************************************************************
 * Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
@@ -15,7 +15,7 @@
                                 Version: v1.50
                                 
                            Nedelcu Bogdan Sebastian
-
+                                16/August/2024
                      Modbus RTU stack running on CH32V307VCT6
 ***********************************************************************************            
   At startup you can open a Termite serial communication tool, configured:
